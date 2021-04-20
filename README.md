@@ -28,3 +28,7 @@ file: 2_OuluDataPretrain.ipynb
 
 file: 3_FinetuneOnChildrenFace.ipynb
 
+# Model
+* Finetuned model on a children's face dataset: 
+* Pretrained model on OULU-CASIA: tfen_oulu_netall.pkl
+
