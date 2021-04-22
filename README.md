@@ -18,17 +18,18 @@ This repository implement the facial expression recognition part. It proposes a 
 ## 1.Prepare on OULU-CASIA. 
 __[Dataset Description](http://www.ee.oulu.fi/~gyzhao/Download/Databases/NIR_VL_FED/Description.pdf)__
 
-file: 1_OuluDataRaw.ipynb
+file: [1_OuluDataRaw.ipynb](1_OuluDataRaw.ipynb)
 
 ## 2. Pretrain on OULU-CASIA.
 
-file: 2_OuluDataPretrain.ipynb
+file: [2_OuluDataPretrain.ipynb](2_OuluDataPretrain.ipynb)
 
 ## 3. Finetune on a children's face dataset.
 
-file: 3_FinetuneOnChildrenFace.ipynb
+file: [3_FinetuneOnChildrenFace.ipynb](3_FinetuneOnChildrenFace.ipynb)
 
 # Model
+All needed model can be download [here]().
 * Finetuned model on a children's face dataset: 
 * Pretrained model on OULU-CASIA: tfen_oulu_netall.pkl
 
