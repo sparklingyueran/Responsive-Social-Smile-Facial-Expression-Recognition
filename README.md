@@ -10,7 +10,7 @@ The latest version paper is [here](https://www.researchgate.net/publication/3434
 This repository implement the facial expression recognition part. It proposes a CNN-based model to capture both spatial and temporal features for facial expression recognition. The network structure(tfennet.py) is mainly made of 4 parts: the 2D residual block, the 3D-CNN branch, the 2D- CNN branch, and the fusion layer. 
 
 
-![model](img/img3.png)
+![model](img3.png)
 
 
 # Procedure
