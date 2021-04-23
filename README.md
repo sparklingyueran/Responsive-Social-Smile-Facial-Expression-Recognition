@@ -29,7 +29,7 @@ file: [2_OuluDataPretrain.ipynb](2_OuluDataPretrain.ipynb)
 file: [3_FinetuneOnChildrenFace.ipynb](3_FinetuneOnChildrenFace.ipynb)
 
 # Model
-All needed model can be download [here]().
-* Finetuned model on a children's face dataset: 
+All needed model can be download [here](https://pan.baidu.com/s/14iycYUDVtJIyEJHgzePSNQ)Password:snb8
+* Finetuned model on a children's face dataset: tfen_adjustlr0.01_sstep70_finetune_children.pkl
 * Pretrained model on OULU-CASIA: tfen_oulu_netall.pkl
 
